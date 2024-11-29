@@ -1,0 +1,4 @@
+Dataset in this is upto 29-11-2024 
+Use your own binance Api keys or you can also use rapid api keys or some else platform api keys.
+## PREINSTALL LIBRARIES IN SAME FOLDER ##
+pip install python-binance (if not works shut don system or check path using sys file path of library)

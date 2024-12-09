@@ -4,3 +4,4 @@ Use your own binance Api keys or you can also use rapid api keys or some else pl
 pip install python-binance (if not works shut don system or check path using sys file path of library)
 pip install gym torch tensorflow # required for developing environmnet for reinforecemt learning model.
 pip install streamlit 
+pip install joblib 

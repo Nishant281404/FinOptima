@@ -1,8 +1,12 @@
+import sys
+
 import import_ipynb
 import pandas as pd
 import streamlit as st
+
 # Importing the necessary methods from the Jupyter notebook
-from model.ipynb import DQNAgent, QLearningAgent  # Import from model.ipynb
+sys.path.append('../Data Preprocessing')
+from model import DQNAgent, QLearningAgent  # Import from model.ipynb
 
 
 # Streamlit interface for cryptocurrency price prediction

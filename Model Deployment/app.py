@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 # Importing the necessary methods from the Jupyter notebook
-sys.path.append('../Data Preprocessing')
+sys.path.append('../Data Preprocessing/model.ipynb')
 from model import DQNAgent, QLearningAgent  # Import from model.ipynb
 
 

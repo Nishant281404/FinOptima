@@ -5,3 +5,4 @@ pip install python-binance (if not works shut don system or check path using sys
 pip install gym torch tensorflow # required for developing environmnet for reinforecemt learning model.
 pip install streamlit 
 pip install joblib 
+deployment working libraray
